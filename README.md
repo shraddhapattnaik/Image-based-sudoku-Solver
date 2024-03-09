@@ -6,29 +6,20 @@ An ANN model is also trained to predict the digits from an image on the MNIST da
 
 The ANN is pre trained and saved.It can be used if the tesseract "image to string conversion" does not work properly
 
-Getting Started:
+For getting Started:
 
-
-1.Clone the Repository or download zip.
-
+1. Clone the Repository or download zip.
 `git clone https://github.com/Soumyajeet-Muni/Image-based-sudoku-Solver.git` 
  
-
-2.Move to the Current directory
-
+2. Move to the Current directory
 `cd sudoku-solver`
 
 
 Prerequisites:
-
-
-1.Python 3.11+
-
-2.Open CV
-
-3.Tesseract-Ocr 
-
-4.Pytesseract
+1. Python 3.11+
+2. Open CV
+3. Tesseract-Ocr
+4. Pytesseract
 
 
 
